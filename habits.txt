@@ -3,3 +3,9 @@
 # the human body. My previous job was standing most of the time and it wasn't easy neither.
 # If I have to compare it, then I find sitting most of the time more challenging than standing.
 # Best way to prevent your body from harm is exercising.
+
+# Response to tip nr. 2
+# Get It Done attitude
+# The code is wearing our name so we try to perfect it (or at least some of us),
+# so that's the reason behind polishing it. Sure, as devs. it's not always in our hands to put it
+# out to the world. We try to stand somewhere in the middleground between being proud and not ashamed of.
